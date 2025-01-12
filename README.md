@@ -8,7 +8,7 @@ I do/build to learn!
 - 💼 Portfolio: Coming soon - in the meantime, feel free to explore my Github.
 - 🤔 I look forward to connecting with more people who love building and solving real-world problems.
 - 👯 I’m looking to collaborate on interesting and challenging projects
-- ⚡ Fun fact: When I’m not coding/working, I’m either exploring something new, enjoying good movie, or traveling.
+- ⚡ Fun fact: When I’m not coding/working, I’m either exploring something new, enjoying a good movie, or traveling.
 
 Reach Out To Me!
 
