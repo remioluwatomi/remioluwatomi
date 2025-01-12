@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi👋 My name is Tomi
+I'm a software developer focused on building scalable solutions. I believe the best way to **learn is by doing**, not by watching endless tutorials.  
+I do/build to learn!
 
-<!--
-**remioluwatomi/remioluwatomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ❤️ I'm really pragmatic and I love to build and craft products with an efficient user-first experience.
+- 🔭 I’m constantly honing my problem-solving skills to build better, more effective solutions.
+- 💼 Portfolio: Coming soon - in the meantime, feel free to explore my Github.
+- 🤔 I look forward to connecting with more people who love building and solving real-world problems.
+- 👯 I’m looking to collaborate on interesting and challenging projects
+- ⚡ Fun fact: When I’m not coding/working, I’m either exploring something new, enjoying good movie, or traveling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach Out To Me!
+
+[📧 Email me](mailto:remioluwatomicephas@gmail.com)     
+[🐦 Follow me on Twitter](https://x.com/remioluwatomi)
+
+
+  
