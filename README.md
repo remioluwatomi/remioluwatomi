@@ -13,7 +13,7 @@ I do/build to learn!
 Reach Out To Me!
 
 [📧 Email me](mailto:remioluwatomicephas@gmail.com)     
-[🐦 Follow me on Twitter](https://x.com/remioluwatomi)
+[🔗 Connect on X/Twitter](https://x.com/remioluwatomi)  
 [🌐 My Website](https://remioluwatomi.github.io/dev)
 
 
